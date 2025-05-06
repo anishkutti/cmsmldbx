@@ -39,3 +39,4 @@ targets:
     permissions:
       - user_name: admin@mngenvmcap290089.onmicrosoft.com
         level: CAN_MANAGE
+
